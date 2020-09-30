@@ -10,13 +10,11 @@ The Employee Directory is the simplest way to view all employees at once and hav
 
 - [Technology](#Technology)
 
-- [Questions](#questions)
-
 ## Usage
 
 Deployed App:
 
-![Demo]
+![Demo](./public/demo.PNG)
 
 ## Technology
 
