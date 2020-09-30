@@ -12,7 +12,7 @@ The Employee Directory is the simplest way to view all employees at once and hav
 
 ## Usage
 
-Deployed App:
+Deployed App: https://goisonberry.github.io/employee_directory/
 
 ![Demo](./public/demo.PNG)
 
